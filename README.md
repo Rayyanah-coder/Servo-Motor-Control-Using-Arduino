@@ -6,7 +6,7 @@ This project simulates the control of **four servo motors** using an **Arduino U
 
 This simulates basic coordinated movement in robotic applications like walking limbs or arm joints.
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1fc71ce0-9082-478a-b616-bbb24cd0f4e6" />
+<img width="890" height="814" alt="Image" src="https://github.com/user-attachments/assets/2b1e8fc6-b40b-4cb4-b483-4452b8ea87eb" />
 
 ---
 
