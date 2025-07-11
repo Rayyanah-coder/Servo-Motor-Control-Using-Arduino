@@ -1,0 +1,9 @@
+Walking Motion Algorithm for Humanoid Robot
+1. Initialize robot standing in balanced position
+2. Slightly lift the right leg forward
+3. Shift body weight to the left leg
+4. Move right leg forward and place it down
+5. Slightly lift the left leg forward
+6. Shift body weight to the right leg
+7. Move left leg forward and place it down
+8. Repeat steps 2 to 7 in loop
